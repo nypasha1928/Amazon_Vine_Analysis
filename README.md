@@ -4,7 +4,7 @@
 This project was utilizing Amazons RDS and uploading that data into PostgreSQL to query data either in SQL or in Jupyter Notebooks: Google Collaboratory. With this specific dataset we are going to determine if there was a bias with Amazon review on Sports Items for the Vine Program. The Vine Program for Amazon is a invitation only based program in which Amazon wants to get the most trusted reviewers on Amazon to post opinions about new and pre-release items to help their fellow customers make informed purchase decisions.
 
 ## Results
-![image]()
+![image](https://github.com/nypasha1928/Amazon_Vine_Analysis/blob/main/Summary.png)
 
 
 ## How many Vine reviews and non-Vine reviews were there?
