@@ -8,16 +8,16 @@ This project was utilizing Amazons RDS and uploading that data into PostgreSQL t
 
 
 ## How many Vine reviews and non-Vine reviews were there?
-   . Vine: 334
-   . Not_vine: 61614
+    . Vine: 334
+    . Not_vine: 61614
    
 ## How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?  
-   . vine: 139
-   . Not_vine: 32665
+    . vine: 139
+    . Not_vine: 32665
  
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars? 
-   . Vine: 41.62%
-   . Not_vine: 53.02%
+    . Vine: 41.62%
+    . Not_vine: 53.02%
    
    
 ## SUMMARY
